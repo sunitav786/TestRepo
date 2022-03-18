@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 public class Myconfig {
 	
 private void sysout() {
-	// TODO Auto-generated method stub
+	
 
 }
 }     
