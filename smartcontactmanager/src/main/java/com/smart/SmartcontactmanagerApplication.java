@@ -9,5 +9,5 @@ public class SmartcontactmanagerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SmartcontactmanagerApplication.class, args);
 	}
-
+    
 }
